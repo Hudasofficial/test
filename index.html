@@ -120,7 +120,7 @@
             <article class="member-card member-card-no-badge"><div class="member-portrait"><img src="https://media.discordapp.net/attachments/918391199335841823/1526385574238490644/HUDAS_ICON_2.png?ex=6a56d4d7&amp;is=6a558357&amp;hm=6bf75592761e2fefff91546c65f633ec3b8236a50bd013e67bdfca25740b1ebc&amp;=&amp;format=webp&amp;quality=lossless&amp;width=421&amp;height=350" alt="Odys HUDAS"></div><div class="member-info"><h3>Odys|HUDAS|~*</h3><p>MEMBER</p></div></article>
             <article class="member-card member-card-no-badge"><div class="member-portrait"><img src="https://media.discordapp.net/attachments/918391199335841823/1526385574238490644/HUDAS_ICON_2.png?ex=6a56d4d7&amp;is=6a558357&amp;hm=6bf75592761e2fefff91546c65f633ec3b8236a50bd013e67bdfca25740b1ebc&amp;=&amp;format=webp&amp;quality=lossless&amp;width=421&amp;height=350" alt="Shin HUDAS"></div><div class="member-info"><h3>Shin|HUDAS|~*</h3><p>MEMBER</p></div></article>
             <article class="member-card member-card-no-badge"><div class="member-portrait"><img src="https://media.discordapp.net/attachments/918391199335841823/1526385574238490644/HUDAS_ICON_2.png?ex=6a56d4d7&amp;is=6a558357&amp;hm=6bf75592761e2fefff91546c65f633ec3b8236a50bd013e67bdfca25740b1ebc&amp;=&amp;format=webp&amp;quality=lossless&amp;width=421&amp;height=350" alt="Baldgirl HUDAS"></div><div class="member-info"><h3>Baldgirl|HUDAS|</h3><p>MEMBER</p></div></article>
-            <article class="member-card member-card-no-badge"><div class="member-portrait"><img src="https://media.discordapp.net/attachments/918391199335841823/1526391161630228541/744109122_122117172440693525_5400337970484885224_n.png?ex=6a56da0b&amp;is=6a55888b&amp;hm=ba569842b87cc398d110260ad9c97b5c40b0847c78addd74971cf9054417ee2a&amp;=&amp;format=webp&amp;quality=lossless&amp;width=656&amp;height=656" alt="Angee HUDAS"></div><div class="member-info"><h3>Angee|HUDAS|~*</h3><p>MEMBER</p></div></article>
+            <article class="member-card member-card-no-badge"><div class="member-portrait"><img src="https://media.discordapp.net/attachments/918391199335841823/1526385574238490644/HUDAS_ICON_2.png?ex=6a577d97&amp;is=6a562c17&amp;hm=210c9016969f2f351dc3f5c5e71841e318c466fbc00b5d4d2301ff52759a4622&amp;=&amp;format=webp&amp;quality=lossless&amp;width=790&amp;height=656" alt="Angee HUDAS"></div><div class="member-info"><h3>Angee|HUDAS|~*</h3><p>MEMBER</p></div></article>
           </div>
         </div>
       </section>
@@ -135,16 +135,16 @@
         </div>
         <div class="community-posts" aria-labelledby="communityPostsTitle">
           <div class="community-posts-heading">
-            <p class="eyebrow" data-i18n="gallery.postsEyebrow"></p>
-            <h3 id="communityPostsTitle" data-i18n="gallery.postsTitle"></h3>
+            <p class="eyebrow">FROM THE CREW</p>
+            <h3 id="communityPostsTitle">Community posts</h3>
           </div>
           <div class="post-grid">
             <article class="photo-post" tabindex="0">
-              <img class="gallery-image" src="https://media.discordapp.net/attachments/918391199335841823/1526391161630228541/744109122_122117172440693525_5400337970484885224_n.png?ex=6a56da0b&amp;is=6a55888b&amp;hm=ba569842b87cc398d110260ad9c97b5c40b0847c78addd74971cf9054417ee2a&amp;=&amp;format=webp&amp;quality=lossless&amp;width=656&amp;height=656" alt="" data-i18n-alt="gallery.communityPostAlt">
+              <img class="gallery-image" src="https://media.discordapp.net/attachments/918391199335841823/1526391161630228541/744109122_122117172440693525_5400337970484885224_n.png?ex=6a56da0b&amp;is=6a55888b&amp;hm=ba569842b87cc398d110260ad9c97b5c40b0847c78addd74971cf9054417ee2a&amp;=&amp;format=webp&amp;quality=lossless&amp;width=656&amp;height=656" alt="HUDAS community post welcoming Angee">
               <div class="photo-post-copy">
                 <span class="gallery-label">COMMUNITY POST</span>
-                <h3 data-i18n="gallery.communityPostTitle"></h3>
-                <p data-i18n="gallery.communityPostCopy"></p>
+                <h3>Welcome to HUDAS, Angee|HUDAS|~*</h3>
+                <p>New baby demon alert — welcome to the orbit.</p>
               </div>
             </article>
           </div>
@@ -160,7 +160,7 @@
 
   <div class="modal-backdrop member-profile-backdrop" id="memberProfileModal" hidden aria-hidden="true">
     <section class="member-profile-card" role="dialog" aria-modal="true" aria-labelledby="memberProfileTitle">
-      <button class="modal-close member-profile-close" type="button" data-i18n-aria-label="members.closeProfile">×</button>
+      <button class="modal-close member-profile-close" type="button" aria-label="Close member profile">×</button>
       <div class="member-profile-portrait">
         <img id="memberProfileImage" alt="" hidden>
       </div>
@@ -170,20 +170,22 @@
           <span class="member-profile-badge-label">Position</span>
           <strong id="memberProfileBadge"></strong>
         </span>
-        <div class="profile-socials" id="memberProfileSocials"></div>
+        <div class="profile-socials" id="memberProfileSocials">
+          <p class="profile-social-empty" id="memberProfileNoSocials" hidden>No social links have been added yet.</p>
+        </div>
       </div>
     </section>
   </div>
 
   <div class="modal-backdrop lightbox-backdrop" id="galleryLightbox" hidden aria-hidden="true">
     <section class="lightbox-dialog" role="dialog" aria-modal="true" aria-labelledby="lightboxTitle">
-      <button class="lightbox-close" id="lightboxClose" type="button" data-i18n-aria-label="gallery.lightboxClose">×</button>
+      <button class="lightbox-close" id="lightboxClose" type="button" aria-label="Close full-screen photo">×</button>
       <figure class="lightbox-figure">
         <img class="lightbox-image" id="lightboxImage" alt="" hidden>
         <figcaption class="lightbox-caption">
           <span id="lightboxLabel"></span>
           <h2 id="lightboxTitle"></h2>
-          <p id="lightboxCopy" data-i18n="gallery.viewerCopy"></p>
+          <p id="lightboxCopy">A snapshot from the HUDAS orbit.</p>
         </figcaption>
       </figure>
     </section>
