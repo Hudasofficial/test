@@ -50,7 +50,7 @@
   }
 
   if (backgroundMusic) {
-    backgroundMusic.loop = false;
+    backgroundMusic.loop = true;
     backgroundMusic.volume = 0.28;
     backgroundMusic.addEventListener('ended', () => {
       musicFinished = true;
