@@ -14,14 +14,6 @@
     "kicker": "Welcome to the orbit",
     "subtitle": ""
   },
-  "welcome": {
-    "close": "Close welcome message",
-    "eyebrow": "A signal from the crew",
-    "title": "Welcome to HUDAS",
-    "copy": "You’ve found a crew built on loyalty, good energy, and unforgettable moments. Take a look around and find your place in the orbit.",
-    "join": "Join the crew",
-    "explore": "Explore HUDAS"
-  },
   "nav": {
     "home": "Home",
     "about": "About us",
@@ -32,8 +24,6 @@
   "members": {
     "openProfile": "Open {name} profile",
     "closeProfile": "Close member profile",
-    "positionLabel": "Position",
-    "noSocials": "No social links have been added yet.",
     "officer": "Officer",
     "member": "Member",
     "emptyOfficers": "No officers have been added yet.",
@@ -118,10 +108,25 @@
     "videoTitle": "Press play and tune in.",
     "videoCopy": "A little video from the crew.",
     "videoFallback": "Your browser does not support video playback.",
+    "newWelcomeAlt": "New baby demon alert welcome post",
+    "newWelcomeTitle": "‼️NEW BABY DEMON ALERT‼️",
+    "newWelcomeMessage": "🎀💖Welcome to HUDAS💖🎀\n✨ Jesh|HUDAS|~*\nBe free and fun; you are now part of the chaotic fam. Remember to #StayHUDAS!",
+    "communityPostAlt": "HUDAS Conclave community post featuring Kelly",
     "communityPostLabel": "Community post",
-    "communityPostTitle": "Welcome to HUDAS, Angee|HUDAS|~*",
-    "communityPostCopy": "New baby demon alert — welcome to the orbit.",
-    "communityPostAlt": "HUDAS community post welcoming Angee"
+    "communityPostTitle": "HUDAS CONCLAVE — Meet Kelly",
+    "communityPostMessage": "🎀💖✨ 𝙃𝙐𝘿𝘼𝙎 𝘾𝙊𝙉𝘾𝙇𝘼𝙑𝙀✨💖🎀\nʟᴇᴀᴅᴇʀ ɴɢ ꜰ4? ᴋᴀʙᴀʜᴀɴ ᴋᴀ ɴᴀ ᴅᴀᴏ ᴍɪɴɢ ꜱɪ!\n𝐌𝐞𝐞𝐭 𝐊𝐞𝐥𝐥𝐲, 𝐭𝐡𝐞 𝐇𝐔𝐃𝐀𝐒 𝐄𝐱𝐚𝐦𝐢𝐧𝐞𝐫 😎\nᴀɴɢ ᴘɪɴᴀᴋᴀ ᴘᴏɢɪ (ꜱᴀʙɪ ɴɪʏᴀ), ꜰᴜɴɴʏ ᴀɴᴅ ᴍᴀɢᴀᴀɴ ᴋᴀꜱᴀᴍᴀ, ᴀᴛ ᴍᴀʜɪʟɪɢ ᴍᴀɢ-ʙᴀꜱᴋᴇᴛʙᴀʟʟ, ᴋᴀʏᴀ ᴀɴɢ ʟᴀᴋᴀꜱ ᴍᴀᴍʙᴏʟᴀ. 🏀\n𝙈𝙖𝙜𝙥𝙖𝙥𝙖-𝙚𝙭𝙖𝙢 𝙠𝙖? 𝙂𝙤 𝙠𝙖𝙮 𝙆𝙚𝙡𝙡𝙮!\n#ꜱᴛᴀʏʜᴜᴅᴀꜱ #ʜᴜᴅᴀꜱᴄᴏɴᴄʟᴀᴠᴇ\nɴᴏᴛᴇ: ꜰᴀɪʀ ᴜꜱᴇ ᴏꜰ ᴀɪ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴀꜱꜱᴇᴛꜱ ᴀɴᴅ ᴍᴏꜱᴛʟʏ ᴀᴜᴛʜᴇɴᴛɪᴄ ᴇᴅɪᴛɪɴɢ ꜱᴋɪʟʟꜱ ᴡᴇʀᴇ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴍᴀᴋɪɴɢ ᴛʜɪꜱ ᴘᴏꜱᴛᴇʀ. ɪᴅᴇᴀꜱ, ᴄᴏɴᴄᴇᴘᴛꜱ, ʟᴀʏᴏᴜᴛ, ᴇᴛᴄ., ᴘʀᴏᴜᴅʟʏ ᴄᴀᴍᴇ ꜰʀᴏᴍ ᴀ ʙʀɪʟʟɪᴀɴᴛ ᴍɪɴᴅ.",
+    "communityPostShichiAlt": "HUDAS Conclave community post featuring Shichi",
+    "communityPostShichiTitle": "HUDAS CONCLAVE — Meet Shichi",
+    "communityPostShichiMessage": "🎀💖✨ 𝙃𝙐𝘿𝘼𝙎 𝘾𝙊𝙉𝘾𝙇𝘼𝙑𝙀✨💖🎀\nɢᴜꜱᴛᴏ ᴍᴏ ᴍᴀʙɪʜᴀɢ ᴀɴɢ ɪʏᴏɴɢ ᴘᴀɴɪɴɢɪɴ ᴀᴛ ᴅᴀᴍᴅᴀᴍɪɴ? ᴏʜ ʜᴇᴛᴏ ᴄʜɪɴɪᴛᴏ!\n𝐌𝐞𝐞𝐭 𝐒𝐡𝐢𝐜𝐡𝐢, 𝐭𝐡𝐞 𝐇𝐔𝐃𝐀𝐒 𝐄𝐱𝐚𝐦𝐢𝐧𝐞𝐫 😻\nꜱʜʏ ᴀᴛ ꜱɪʟᴇɴᴛ ᴛʏᴘᴇ ᴘᴇʀᴏ ꜱᴀ ᴘᴜᴋꜱᴀᴀɴ ᴀʏ ɢᴀᴍᴇ ɴᴀ ɢᴀᴍᴇ. ᴍᴇᴅʏᴏ ɴᴀᴜɢʜᴛʏ, ᴍᴇᴅʏᴏ ᴘᴀʙᴇʙᴇ, ᴘᴀʀᴀɴɢ ꜱᴡᴇᴇᴛ ᴀɴᴅ ꜱᴘɪᴄʏ. ᴀɴɢ ᴀᴛᴀᴋᴇ~  🔥\n𝙍𝙚𝙖𝙙𝙮 𝙣𝙖 𝙗𝙖𝙣𝙜 𝙢𝙖ɢ𝙥𝙖-𝙚𝙭𝙖𝙢 𝙖𝙣𝙜 𝙡𝙖𝙝𝙖𝙩? 𝙋𝙞𝙡𝙖 𝙣𝙖 𝙘𝙖𝙪𝙨𝙚 𝙎𝙝𝙞𝙘𝙝𝙞 𝙞𝙨 𝙧𝙚𝙖𝙙𝙮 ɴᴀ!\n#ꜱᴛᴀʏʜᴜᴅᴀꜱ #ʜᴜᴅᴀꜱᴄᴏɴᴄʟᴀᴠᴇ\nɴᴏᴛᴇ: ꜰᴀɪʀ ᴜꜱᴇ ᴏꜰ ᴀɪ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴀꜱꜱᴇᴛꜱ ᴀɴᴅ ᴍᴏꜱᴛʟʏ ᴀᴜᴛʜᴇɴᴛɪᴄ ᴇᴅɪᴛɪɴɢ ꜱᴋɪʟʟꜱ ᴡᴇʀᴇ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴍᴀᴋɪɴɢ ᴛʜɪꜱ ᴘᴏꜱᴛᴇʀ. ɪᴅᴇᴀꜱ, ᴄᴏɴᴄᴇᴘᴛꜱ, ʟᴀʏᴏᴜᴛ, ᴇᴛᴄ., ᴘʀᴏᴜᴅʟʏ ᴄᴀᴍᴇ ꜰʀᴏᴍ ᴀ ʙʀɪʟʟɪᴀɴᴛ ᴍɪɴᴅ.",
+    "communityPostEwicuhAlt": "HUDAS Conclave community post featuring Ewicuh",
+    "communityPostEwicuhTitle": "HUDAS CONCLAVE — Meet Ewicuh",
+    "communityPostEwicuhMessage": "🎀💖✨ 𝙃𝙐𝘿𝘼𝙎 𝘾𝙊𝙉𝘾𝙇𝘼𝙑𝙀✨💖🎀\nɪᴋᴀᴡ ʙᴀ'ʏ ᴍᴀʏ ᴡᴏᴡ? ᴇᴅɪ ᴡᴏᴡ! ʜᴇᴛᴏ ᴍᴀʏ ᴡᴏᴡ~\n𝐌𝐞𝐞𝐭 𝐄𝐰𝐢𝐜𝐮𝐡, 𝐭𝐡𝐞 𝐇𝐔𝐃𝐀𝐒 𝐇𝐞𝐚𝐝 𝐄𝐱𝐚𝐦𝐢𝐧𝐞𝐫 💁‍♀️\nᴀɴɢ ᴘɪɴᴀᴋᴀ ᴘᴀʟᴀʙᴀɴ! ᴡɪꜱᴇ, ᴅɪʀᴇᴄᴛ, ᴀɴᴅ ᴀᴜᴛʜᴇɴᴛɪᴄ, ʜᴀᴋᴏᴛ ɴɪʏᴀ ʟᴀʜᴀᴛ ʏᴀɴ. ᴘᴀᴛɪ ʙᴀ ɴᴀᴍᴀɴ ꜱᴀ ᴘɪɴᴅᴏᴛᴀɴ? ʜɪɴᴅɪɴɢ-ʜɪɴᴅɪ ᴀᴀᴛʀᴀꜱ ʏᴀɴ! 💋\n𝙍𝙚𝙖𝙙𝙮 𝙠𝙖 𝙣𝙖 𝙗𝙖𝙣𝙜 𝙢𝙖𝙥𝙪𝙠𝙨𝙖? 𝙃𝙖𝙧𝙖𝙥𝙞𝙣 𝙢𝙤 𝙨𝙞 𝙀𝙬𝙞!\n#ꜱᴛᴀʏʜᴜᴅᴀꜱ #ʜᴜᴅᴀꜱᴄᴏɴᴄʟᴀᴠᴇ\nɴᴏᴛᴇ: ꜰᴀɪʀ ᴜꜱᴇ ᴏꜰ ᴀɪ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴀꜱꜱᴇᴛꜱ ᴀɴᴅ ᴍᴏꜱᴛʟʏ ᴀᴜᴛʜᴇɴᴛɪᴄ ᴇᴅɪᴛɪɴɢ ꜱᴋɪʟʟꜱ ᴡᴇʀᴇ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴍᴀᴋɪɴɢ ᴛʜɪꜱ ᴘᴏꜱᴛᴇʀ. ɪᴅᴇᴀꜱ, ᴄᴏɴᴄᴇᴘᴛꜱ, ʟᴀʏᴏᴜᴛ, ᴇᴛᴄ., ᴘʀᴏᴜᴅʟʏ ᴄᴀᴍᴇ ꜰʀᴏᴍ ᴀ ʙʀɪʟʟɪᴀɴᴛ ᴍɪɴᴅ.",
+    "communityPostXyraAlt": "HUDAS Conclave community post featuring Xyra",
+    "communityPostXyraTitle": "HUDAS CONCLAVE — Meet Xyra",
+    "communityPostXyraMessage": "🎀💖✨ 𝙃𝙐𝘿𝘼𝙎 𝘾𝙊𝙉𝘾𝙇𝘼𝙑𝙀✨💖🎀\nᴡɪᴛʜ ʜᴇʀ ᴄʜᴀʀᴍ ᴀɴᴅ ʙʀɪɢʜᴛ ᴀᴜʀᴀ, ᴋᴀᴘɪᴛ ᴀᴛ ʙᴀᴋᴀ ɪᴋᴀ'ʏ ᴍᴀᴅᴀʟᴀ!\n𝐌𝐞𝐞𝐭 𝐗𝐲𝐫𝐚, 𝐭𝐡𝐞 𝐇𝐔𝐃𝐀𝐒 𝐌𝐮𝐬𝐞 🎀\nᴀɴɢ ᴘɪɴᴀᴋᴀ ʙᴜɴꜱᴏ, ᴀɴɢ ᴛᴀɢᴀ ᴍᴏᴅᴇʀᴀᴛᴇ ɴɢ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ, ᴛᴀɢᴀ ʀᴇᴄʀᴜɪᴛ ɴɢ ᴍɢᴀ ꜰᴀᴄᴇ ᴄᴀʀᴅ ᴀᴛ ᴍᴀᴍᴀᴡ ᴋᴜɴɢ ᴍᴀɢ ꜱᴡᴅ (ᴀᴛ ᴍᴀɢᴍᴀʜᴀʟ) 💕\n𝙒𝙖𝙣𝙩 𝙩𝙤 𝙟𝙤𝙞𝙣 𝙃𝙐𝘿𝘼𝙎? 𝙆𝙖𝙮 𝙓𝙮𝙧𝙖 𝙖𝙣𝙜 𝙡𝙖𝙥𝙞𝙩~\n#ꜱᴛᴀʏʜᴜᴅᴀꜱ #ʜᴜᴅᴀꜱᴄᴏɴᴄʟᴀᴠᴇ\nɴᴏᴛᴇ: ꜰᴀɪʀ ᴜꜱᴇ ᴏꜰ ᴀɪ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴀꜱꜱᴇᴛꜱ ᴀɴᴅ ᴍᴏꜱᴛʟʏ ᴀᴜᴛʜᴇɴᴛɪᴄ ᴇᴅɪᴛɪɴɢ ꜱᴋɪʟʟꜱ ᴡᴇʀᴇ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴍᴀᴋɪɴɢ ᴛʜɪꜱ ᴘᴏꜱᴛᴇʀ. ɪᴅᴇᴀꜱ, ᴄᴏɴᴄᴇᴘᴛꜱ, ʟᴀʏᴏᴜᴛ, ᴇᴛᴄ., ᴘʀᴏᴜᴅʟʏ ᴄᴀᴍᴇ ꜰʀᴏᴍ ᴀ ʙʀɪʟʟɪᴀɴᴛ ᴍɪɴᴅ",
+    "levelUpAlt": "HUDAS Level Up community post celebrating Dyaren",
+    "levelUpTitle": "LEVEL UP — Dyaren reaches Level 60",
+    "levelUpMessage": "✨🎀💖 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋 💖🎀✨\n𝐓𝐇𝐄 𝐅𝐈𝐑𝐒𝐓 𝐇𝐔𝐃𝐀𝐒 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐋𝐄𝐕𝐄𝐋 𝟔𝟎!\n𝐂𝐨𝐧𝐠𝐫𝐚𝐭𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬, 𝐃𝐲𝐚𝐫𝐞𝐧|𝐇𝐔𝐃𝐀𝐒|𝐂𝐌!\nʏᴏᴜʀ ᴅᴇᴅɪᴄᴀᴛɪᴏɴ ᴀɴᴅ ʜᴀʀᴅᴡᴏʀᴋ ɪꜱ ᴀɴ ɪɴꜱᴘɪʀᴀᴛɪᴏɴ ᴛᴏ ᴀʟʟ ᴏꜰ ᴜꜱ ᴀɴᴅ ᴡᴇ ᴀʀᴇ ꜱᴏ ᴘʀᴏᴜᴅ ᴏꜰ ᴛʜɪꜱ ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛ ᴏꜰ ʏᴏᴜʀꜱ. ᴇᴠᴇʀʏ ꜱᴇᴄᴏɴᴅ ᴘᴏᴜʀᴇᴅ ɪɴᴛᴏ ᴀᴄʜɪᴇᴠɪɴɢ ᴛʜɪꜱ ᴍɪʟᴇꜱᴛᴏɴᴇ ᴡᴀꜱ ᴡᴏʀᴛʜ ɪᴛ!\n𝙂𝙂𝙒𝙋, 𝘾𝙈 𝘿𝙮𝙖𝙧𝙚𝙣!"
   },
   "rules": {
     "eyebrow": "The constellation code",
@@ -135,7 +140,6 @@
   },
   "footer": {
     "copyright": "HUDAS © 2026",
-    "copy": "Developed with Passion By Dylan",
     "back": "Back to top ↑"
   },
   "modal": {
