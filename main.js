@@ -147,6 +147,34 @@
     if (event.target === welcomeBackdrop) closeWelcome();
   });
 
+  // Use a predictable local image name for every roster profile.
+  // Example: "Dylan|HUDAS|~*" becomes images/dylan.jpg.
+  function useLocalRosterImages() {
+    $$('.member-card .member-portrait img').forEach((image) => {
+      const card = image.closest('.member-card');
+      const displayName = $('.member-info h3', card)?.textContent.trim().split('|')[0].trim();
+      if (!displayName) return;
+
+      const fileName = `${displayName.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.png`;
+      const remoteSource = image.src;
+      image.dataset.remoteSource = remoteSource;
+      image.dataset.imageFallbackStage = '0';
+      image.src = `images/${fileName}`;
+      image.addEventListener('error', () => {
+        const stage = Number(image.dataset.imageFallbackStage || 0);
+        if (stage === 0) {
+          image.dataset.imageFallbackStage = '1';
+          image.src = 'images/sample.png';
+        } else if (stage === 1) {
+          image.dataset.imageFallbackStage = '2';
+          image.src = image.dataset.remoteSource;
+        }
+      });
+    });
+  }
+
+  useLocalRosterImages();
+
   // Member cards are the profile source: no separate roster data is created.
   const profileModal = $('#memberProfileModal');
   const profileClose = $('.member-profile-close', profileModal || document);
